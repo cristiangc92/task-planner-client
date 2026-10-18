@@ -55,3 +55,20 @@ npm install
 
 # Ejecutar en modo desarrollo
 npm run dev
+```
+
+### 2. Frontend (`task-planner-client`)
+```bash
+# Clonar repositorio
+git clone [https://github.com/TU_USUARIO/task-planner-client.git](https://github.com/TU_USUARIO/task-planner-client.git)
+cd task-planner-client
+
+# Instalar dependencias
+npm install
+
+# Crear archivo .env en la raíz con:
+# VITE_API_URL=http://localhost:3001/api
+
+# Ejecutar en modo desarrollo
+npm run dev
+```
